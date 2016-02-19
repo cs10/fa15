@@ -171,7 +171,7 @@ cs10.week5 = {
 
 // SEPT 28 - OCT 2
 cs10.week6 = {
-    readings1: 'No Readings',
+    readings1: 'THERE WILL BE SO MANY READINGS THIS WEEK! YOU ARE DOOMED...',
     disc1: disc('Data and HOFs'),
     lab1: lab('Lambdas and HOFs', 'berkeley_bjc/hofs/hofs-practice.topic', true),
     lect1: lect('Besides Blocks I', 'L18 - Python I'),
@@ -355,7 +355,8 @@ cs10.week14 = {
                 'optional'),
         reading('BtB: Conclusion',
                 '{{ site.baseurl }}/resources/readings/btb/chapter9.pdf',
-                'optional')
+                'optional'),
+        reading('WHY THE WORLD WILL END', 'some-url.com', 'WHO KNOWS') // what is this thing here?
     ],
     disc1: disc('Data and HOFs'),
     lab1: lab('Lambdas and HOFs', 'berkeley_bjc/hofs/hofs-practice.topic', true),
